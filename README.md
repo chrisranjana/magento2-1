@@ -5,7 +5,7 @@ Esse projeto contém um built usando Ubuntu com: MySQL, Redis, Nginx e PHP
 Para fazer o build:
 'sudo docker build -t joaovagner/php_nginx_mysql_redis_magento2 .'
 
-[Magento2 programmers](https://www.chrisranjana.com)
+[Magento2 programmers](https://www.chrisranjana.com/magento-developers-programmers-india.html)
 
 Para rodar em modo interativo execute no seu terminal:
 
